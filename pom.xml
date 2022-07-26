@@ -10,6 +10,7 @@
 	<modules>
 		<module>factory</module>
 		<module>dialogs</module>
+		<module>text-selector</module>
 	</modules>
 
 	<properties>
